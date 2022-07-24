@@ -1,0 +1,9 @@
+.video_playback {
+    position: fixed;
+    object-fit: cover;
+    width: 100%;
+    height: 79vh;
+    right: 0;
+    transform: translate(-50% -50%);
+    z-index: -1;
+}

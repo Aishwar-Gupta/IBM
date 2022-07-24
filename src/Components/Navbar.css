@@ -1,0 +1,33 @@
+.navbar {
+    background: black;
+    text-decoration: #fff;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    font-size: 1.2rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    justify-content: end;
+    align-items: center;
+    padding-right: 1%;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    overflow:hidden;
+  }
+  
+.link {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 2rem;
+}
+
+.link:hover {
+    color: blueviolet;
+  }
+
+.link:active {
+    color: green;
+}
+  
+

@@ -1,0 +1,36 @@
+.Footer {
+    background: black;
+    text-decoration: none;
+    height: 150px;
+    width: 100%;
+    right: 0;
+    display: flex;
+    font-size: 1rem;
+    position: absolute;
+    bottom: 0;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    text-align: left;
+}
+
+.link:hover {
+    color: blueviolet;
+  }
+
+.link:active {
+    color: green;
+}
+
+.table {
+    padding: 0.5%;
+    text-align: left;
+    color: white;
+    width: 100%;
+}
+
+.table-header {
+    font-size: 1.3rem;
+}

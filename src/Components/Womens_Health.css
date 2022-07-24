@@ -1,0 +1,16 @@
+.print {
+    position:absolute;
+    top: calc(80px);
+    color: red;
+    transform: translate(-50% -50%);
+    overflow: auto;
+}
+
+.abc {
+    color: aqua;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
