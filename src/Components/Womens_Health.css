@@ -3,14 +3,25 @@
     top: calc(80px);
     color: red;
     transform: translate(-50% -50%);
-    overflow: auto;
+    overflow: scroll;
+    padding-bottom: 20%;
 }
 
 .abc {
-    color: aqua;
+    color: black;
+    font-style: italic;
+    
 }
 
 .image {
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 400px;
+}
+
+.abcd {
+    color: blueviolet;
+}
+
+.women_health_center {
+    text-align: center;
 }
