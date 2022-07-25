@@ -2,7 +2,7 @@
     color: rgb(57, 152, 181);
 }
 
-.printFood {
+.print {
     position:absolute;
     top: calc(80px);
     color: rgb(0, 0, 0);

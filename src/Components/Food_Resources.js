@@ -2,7 +2,7 @@ import './Food_Resources.css'
 
 function Food_Resources() {
     return (  
-        <div className='printFood'>
+        <div className='print'>
 
             <h1 className='h1'>
                 Poverty and poor health are intertwined.  

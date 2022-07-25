@@ -1,11 +1,11 @@
-.print {
+/* .print {
     position:absolute;
     top: calc(80px);
     color: red;
     transform: translate(-50% -50%);
     overflow: scroll;
     padding-bottom: 20%;
-}
+} */
 
 .abc {
     color: black;
