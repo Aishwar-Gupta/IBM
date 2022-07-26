@@ -13,24 +13,28 @@ import { ChakraProvider } from '@chakra-ui/react'
 function App() {
   return (
 
-    //<ChakraProvider>
+    //  <ChakraProvider>
+      //  <App />
 
       <div className="App">
 
 
-        <Routes>
-            <Route exact path='/' element={<Home/>}></Route>
-            <Route exact path='/Food-Resources' element={<Food_Resources/>}></Route>
-            <Route exact path='/Womens-Health' element={<Womens_Health/>}></Route>
-          </Routes>
-          
-          <Navbar></Navbar>
-          <Footer></Footer>
-          
+      <Routes>
+          <Route exact path='/' element={<Home/>}></Route>
+          <Route exact path='/Food-Resources' element={<Food_Resources/>}></Route>
+          <Route exact path='/Womens-Health' element={<Womens_Health/>}></Route>
+        </Routes>
+        
+        <Navbar></Navbar>
+        <Footer></Footer>
+        
 
       </div>
+    //  </ChakraProvider>
 
-    //</ChakraProvider> 
+    
+
+
 
 
 
