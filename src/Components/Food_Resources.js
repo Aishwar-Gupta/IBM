@@ -1,8 +1,14 @@
 import './Food_Resources.css'
+import {Button} from '@chakra-ui/react'
+
 
 function Food_Resources() {
     return (  
         <div className='print'>
+
+        {/* <Button colorScheme='teal' variant='ghost' borderWidth='0px'>
+            Button
+        </Button> */}
 
             <h1 className='h1'>
                 Poverty and poor health are intertwined.  

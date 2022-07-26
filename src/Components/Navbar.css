@@ -1,6 +1,6 @@
 .navbar {
-    background: black;
-    text-decoration: #fff;
+    background: white;
+    text-decoration: rgb(16, 11, 11);
     height: 80px;
     width: 100%;
     display: flex;
@@ -17,9 +17,10 @@
   }
   
 .link {
-    color: #fff;
+    color: #02111B;
     text-decoration: none;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    /* letter-spacing: 2px; */
     /* font-family: "Lexend Deca";
     letter-spacing: 2px;
     font-size: 0.875rem;
@@ -28,11 +29,12 @@
 }
 
 .link:hover {
-    color: blueviolet;
+    color: #02111B;
   }
 
-.link:active {
+/* .link:focus {
     color: green;
-}
+    box-shadow: "green"
+} */
   
 
