@@ -27,6 +27,19 @@
     <title>Spartan Bears</title>
   </head>
   <body>
+    <script>
+      window.watsonAssistantChatOptions = {
+        integrationID: "d1aedec8-e3f6-442e-b6d6-de817ae0fd97", // The ID of this integration.
+        region: "us-east", // The region your integration is hosted in.
+        serviceInstanceID: "fb8c5bce-2f99-487a-9269-8c3f958e13a2", // The ID of your service instance.
+        onLoad: function(instance) { instance.render(); }
+      };
+      setTimeout(function(){
+        const t=document.createElement('script');
+        t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+        document.head.appendChild(t);
+      });
+    </script>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
