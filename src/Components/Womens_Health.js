@@ -20,6 +20,9 @@ function Womens_Health() {
             </p>
             <p>Barrier methods of birth control are safe and affordable and, are required to use during sexual activities. Condoms are most commonly used and are 85 effective, they are thin expandable pouches that cover the penis during sexual activies and prevent the sperm from coming in contact with the uterus and prevent STDs. Internal condoms are 79% effective and are little pouches that are inserted inside the vagina during sex and prevent the sperm from coming in contact with the uterus and stops STDs.
             </p>
+            <p>For more information, you can refer to this birth control chart:
+                <ul><li>https://www.fda.gov/consumers/free-publications-women/birth-control-chart</li></ul>
+            </p>
 
             <h2 className = 'abcd'> Sexually Transmitted Diseases</h2>
             <p>Bacterial Vaginosis is a condition that happens when there is too much of certain bacteria in the vagina that it alters the main bacteria in the vagina. This is the most common vaginal condition in women ages 15-44. It is caused by unsafe sexual activity and is a result of an imbalance of “good” and “harmful” bacteria in a vagina
@@ -38,15 +41,15 @@ function Womens_Health() {
            
 
             <h2 className = 'abcd'> Abortions </h2>
-            <p>Abortion Procedure:	"After the cervix is stretched open, the doctor inserts a hard plastic tube into the uterus, then connects this tube to a suction machine. The suction pulls the fetus' body apart and out of the uterus. The doctor may also use a loop-shaped knife called a curette to scrape the fetus and fetal parts out of the uterus."</p>
+            <p>Abortion Procedure:	    "After the cervix is stretched open, the doctor inserts a hard plastic tube into the uterus, then connects this tube to a suction machine. The suction pulls the fetus' body apart and out of the uterus."</p>
             <p><ul><li>https://foundationsoflife.org/facts-about-abortion/abortion-procedure-facts/#:~:text=After%20the%20cervix%20is%20stretched,parts%20out%20of%20the%20uterus.
 </li></ul></p>
 
-            <p>Reasons why a woman would get an abortion:	A women could want to get an abortion having a baby would drastically change their life by interfereing with their education, job,employpemt/ career. They might be able to afford a baby or child care, don't want to be a single parent or are a victim or rape or incest.
+            <p>Reasons why a woman would get an abortion:	    A women could want to get an abortion having a baby would drastically change their life by interfereing with their education, job, employment/career. They might not be able to afford a baby or child care or, don't want to be a single parent. The parent might be a victim of rape or incest, or the pregenancy might risk the parent's life.
 </p>
 <p><ul><li>https://www.guttmacher.org/journals/psrh/2005/reasons-us-women-have-abortions-quantitative-and-qualitative-perspectives
 </li></ul></p>
-            <p>Risks of an abortion:	 Abortions are generally very safe and most women will not experience any problems. Having an abortion does not increase the risk of breast cancer or menal health issues nor will affect your chances of becoming pregnant and ahving a normal pregancies in the future. Possible complications could include needing another procedure to remove parts of the pregnancy that have stayed in the womb, heavy bleeding, damage to the womb, or sepsis. 
+            <p>Risks of an abortion:	 Abortions are generally very safe and most women will not experience any problems. Having an abortion does not increase the risk of breast cancer or menal health issues nor will affect your chances of becoming pregnant and having normal pregancies in the future. Possible complications could include needing another procedure to remove parts of the pregenancy that have stayed in the womb, heavy bleeding, damage to the womb, or sepsis. 
 </p>
 
 <p><ul><li>https://www.nhs.uk/conditions/abortion/risks/
@@ -64,7 +67,19 @@ function Womens_Health() {
 <p><ul><li>https://www.reddit.com/r/Feminism/comments/phrcrn/this_is_a_comprehensive_list_of_resources_for/
 </li></ul></p>
             <h2 className = 'abcd'> Caregiving</h2>
-<p>https://www.fda.gov/consumers/womens-health-topics/caring-others-resources-help-you
+<p>Information for first time parents:
+    <ul><li>https://www.fda.gov/consumers/womens-health-topics/caring-others-resources-help-you
+    </li></ul>
+    <ul><li>https://www.brighamandwomens.org/assets/BWH/obgyn/pdfs/guide-for-new-parents.pdf
+    </li></ul>
+    <ul><li>https://pathways.org/what-every-first-time-parent-should-know/
+    </li></ul>
+
+    Information for elderly care:
+    <ul><li>https://aginginplace.org/a-guide-to-caring-for-elderly-parents/
+    </li></ul>
+    <ul><li>https://www.lovetoknowhealth.com/well-being/tips-for-taking-care-of-elderly
+    </li></ul>
 </p>
             
             <h2 className = 'abcd'> Pregnancy</h2>
