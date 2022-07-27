@@ -12,21 +12,13 @@ function Womens_Health() {
             {/*<img className='image' src={image}></img>*/}
 
             <h2 className = 'abcd'> Birth Control</h2>
-            <p>
-            <ul><li>Sterilization</li></ul> 
-            
-
-            Tubal ligation/Vasectomy 
-            One time procedure that is permanent
-            Long Acting Reversible Contraceptives
-            IUD  
-            last up to years depending
-            Short Acting Hormonal Methods
-            birth control pill 
-            must take daily
-            Barrier Methods
-            Male/Female Condoms
-            must use every time you have sex
+            <p>Sterilization is a permanent form of birth control for both men and women. It is a safe and extremely effective surgical procedure. Tubal ligation is a surgical procedure that closes, cuts, or removes pieces of the fallopian tubes. Vasectomy is a surgical procedure that involves the small tubes that carry the sperm to be cut off or blocked off. 
+            </p>
+            <p>Long acting reversible contraceptives are extremely effective and can last up to years. An IUD is a tiny device that's put into your uterus to prevent pregnancy by changing the way sperm cells move so they can't get to an egg. The copper IUD uses copper to repel the sperm while the hormonal IUD manipulates hormones to stop eggs from leaving the ovaries or thickening the mucus in the cervix.
+            </p>
+            <p>Short acting hormonal methods are very common and are usually 91% effective. The pill is a safe and affordable method of birth control that requires you to take the medication daily. The birth control pills manipulate the hormones to stop the fertilization process. The transdermal contraceptive patch is another safe and convenient form of birth control, when used correctly, and needs to be replaced weekly. By wearing the patch on certain body parts, it releases hormones through the skin that stop the fertilization process and halt ovulation.   
+            </p>
+            <p>Barrier methods of birth control are safe and affordable and, are required to use during sexual activities. Condoms are most commonly used and are 85 effective, they are thin expandable pouches that cover the penis during sexual activies and prevent the sperm from coming in contact with the uterus and prevent STDs. Internal condoms are 79% effective and are little pouches that are inserted inside the vagina during sex and prevent the sperm from coming in contact with the uterus and stops STDs.
             </p>
 
             <h2 className = 'abcd'> Sexually Transmitted Diseases</h2>
