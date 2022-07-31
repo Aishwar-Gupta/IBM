@@ -1,6 +1,21 @@
 import './Food_Resources.css'
 import {Button} from '@chakra-ui/react'
+import React from "react";
+// import {GoogleMap, withScriptjs, withGoogleMap} from "react-google-maps";
+// //import { GoogleMap, withScriptjs, withGoogleMap } from "@react-google-maps/api";
 
+
+
+// function Map() {
+//     return ( 
+//     <GoogleMap 
+//         defaultZoom = {10} 
+//         defaultCenter={{lat: 37.774929, lng: -122.419418}}
+//     />
+//     );
+// }
+
+// const WrappedMap = withScriptjs(withGoogleMap(Map));
 
 function Food_Resources() {
     return (  
@@ -80,8 +95,19 @@ function Food_Resources() {
             consider volunteering at your local food bank or with an organization like Wholesome Wave.
             https://www.wholesomewave.org/
             </p>
+{/* 
+            <WrappedMap
+                googleMapURL={"https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"}
+                loadingElement={<div style={{ height: "30%" }} />}
+                containerElement={<div style={{ height: "30%" }} />}
+                mapElement={<div style={{ height: "30%" }} />}
+            /> */}
+
+
+            
             
         </div>
+
     );
 }
 
