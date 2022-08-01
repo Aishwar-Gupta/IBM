@@ -4,7 +4,7 @@ import React from "react";
 // import { GoogleMap, withScriptjs, withGoogleMap } from "react-google-maps";
 // import {GoogleMap, withScriptjs, withGoogleMap} from "react-google-maps";
 // //import { GoogleMap, withScriptjs, withGoogleMap } from "@react-google-maps/api";
-import {GoogleMap, useLoadScript, Marker} from "@react-google-maps/api";
+// import {GoogleMap, useLoadScript, Marker} from "@react-google-maps/api";
 
 
 
@@ -19,7 +19,7 @@ import {GoogleMap, useLoadScript, Marker} from "@react-google-maps/api";
 
 // const WrappedMap = withScriptjs(withGoogleMap(Map));
 
-const {} = useLoadScript({googleMapsApiKey: ""});
+// const {} = useLoadScript({googleMapsApiKey: ""});
 
 function Food_Resources() {
     return (  
