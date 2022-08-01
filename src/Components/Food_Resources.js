@@ -2,22 +2,11 @@ import './Food_Resources.css'
 import {Button} from '@chakra-ui/react'
 import React from "react";
 // import { GoogleMap, withScriptjs, withGoogleMap } from "react-google-maps";
-// import {GoogleMap, withScriptjs, withGoogleMap} from "react-google-maps";
 // //import { GoogleMap, withScriptjs, withGoogleMap } from "@react-google-maps/api";
 // import {GoogleMap, useLoadScript, Marker} from "@react-google-maps/api";
 
 
 
-// function Map() {
-//     return (
-//         <GoogleMap 
-//             defaultZoom={10} 
-//             defaultCenter={{lat: 37.774929, lng: -122.419418}} 
-//         />
-//     );
-// }
-
-// const WrappedMap = withScriptjs(withGoogleMap(Map));
 
 // const {} = useLoadScript({googleMapsApiKey: ""});
 

@@ -22,6 +22,14 @@ function Navbar() {
                         <Button colorScheme='teal' variant='ghost' borderWidth='0px'>
                             <Link className='link' to='/Womens-Health'>Women's Health</Link>
                         </Button>
+
+                        <Button colorScheme='teal' variant='ghost' borderWidth='0px'>
+                            <Link className='link' to='/Locator'>Locator</Link>
+                        </Button>
+
+                        <Button colorScheme='teal' variant='ghost' borderWidth='0px'>
+                            <Link className='link' to='/Donate'>Donate</Link>
+                        </Button>
                     </ul>
 
                 </div>

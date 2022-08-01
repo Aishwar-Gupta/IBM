@@ -6,6 +6,9 @@ import {Routes, Route} from 'react-router-dom';
 import Home from './Components/Home';
 import Food_Resources from './Components/Food_Resources';
 import Womens_Health from './Components/Womens_Health';
+import Locator from './Components/Locator';
+import Donate from './Components/Donate';
+
 
 import * as React from 'react'
 import { ChakraProvider } from '@chakra-ui/react'
@@ -23,6 +26,8 @@ function App() {
           <Route exact path='/' element={<Home/>}></Route>
           <Route exact path='/Food-Resources' element={<Food_Resources/>}></Route>
           <Route exact path='/Womens-Health' element={<Womens_Health/>}></Route>
+          <Route exact path='/Locator' element={<Locator/>}></Route>
+          <Route exact path='/Donate' element={<Donate/>}></Route>
         </Routes>
         
         <Navbar></Navbar>
