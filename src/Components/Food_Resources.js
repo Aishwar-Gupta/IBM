@@ -4,6 +4,7 @@ import React from "react";
 // import { GoogleMap, withScriptjs, withGoogleMap } from "react-google-maps";
 // import {GoogleMap, withScriptjs, withGoogleMap} from "react-google-maps";
 // //import { GoogleMap, withScriptjs, withGoogleMap } from "@react-google-maps/api";
+import {GoogleMap, useLoadScript, Marker} from "@react-google-maps/api";
 
 
 
@@ -17,6 +18,8 @@ import React from "react";
 // }
 
 // const WrappedMap = withScriptjs(withGoogleMap(Map));
+
+const {} = useLoadScript({googleMapsApiKey: ""});
 
 function Food_Resources() {
     return (  
