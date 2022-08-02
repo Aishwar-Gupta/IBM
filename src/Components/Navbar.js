@@ -30,6 +30,15 @@ function Navbar() {
                         <Button colorScheme='teal' variant='ghost' borderWidth='0px'>
                             <Link className='link' to='/Donate'>Donate</Link>
                         </Button>
+
+                        {/* <Link className='link' to='/'>Home</Link>
+                        <Link className='link' to='/Food-Resources'>Food Banks</Link>
+                        <Link className='link' to='/Womens-Health'>Women's Health</Link>    
+                        <Link className='link' to='/Locator'>Locator</Link>
+                        <Link className='link' to='/Donate'>Donate</Link> */}
+
+
+
                     </ul>
 
                 </div>

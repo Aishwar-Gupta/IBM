@@ -4,19 +4,25 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
 import { ChakraProvider, theme, ThemeProvider, CSSReset } from '@chakra-ui/react'
+import Locator from './Components/Locator';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <ThemeProvider theme={theme}>  
-    {/* <CSSReset />   */}
+    // {/* <CSSReset />   */}
     <React.StrictMode>
       <BrowserRouter>
         <App />
       </BrowserRouter>
     </React.StrictMode>
   </ThemeProvider>  
+  // <React.StrictMode>
+  //   <BrowserRouter>
+  //     <App />
+  //   </BrowserRouter>
+  // </React.StrictMode>
 
 );
 

@@ -1,5 +1,5 @@
 import './App.css';
-import Footer from './Components/Footer';
+// import Footer from './Components/Footer';
 import Navbar from './Components/Navbar';
 import {Routes, Route} from 'react-router-dom';
 
@@ -31,17 +31,11 @@ function App() {
         </Routes>
         
         <Navbar></Navbar>
-        <Footer></Footer>
+        {/* <Footer></Footer> */}
         
 
       </div>
     //  </ChakraProvider>
-
-    
-
-
-
-
 
 
   );
