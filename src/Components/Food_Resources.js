@@ -88,13 +88,28 @@ function Food_Resources() {
             <br/>
             <br/>
 
-            If you don’t live in a food desert but want to help those in need, 
-            consider volunteering at your local food bank or with an organization like Wholesome Wave.
-            https://www.wholesomewave.org/
+            The Feeding America nationwide network of food banks and food programs helps millions of 
+            people find food and grocery help in their communities every year. Connect with your local 
+            food bank to learn about upcoming free food distributions and to apply for national food programs.
 
             <br></br>
 
-            <a className='link' target='_blank' href='https://www.wholesomewave.org/'>Wholesome Wave Volunteering Access Link</a>
+            <a className='link' target='_blank' href='https://www.feedingamerica.org/find-your-local-foodbank'>Feeding America Website</a>
+
+            <br/>
+            <br/>
+
+            SNAP, Supplemental Nutrition Assistance Program, formerly called food stamps, is a government program that 
+            helps people buy the food they need for healthy lives. Across the United States, there are 9.5 million 
+            families and children using SNAP to buy food. It is the largest program working to fight hunger in 
+            America. SNAP helps many people stretch their budgets because the money they would use on food can go 
+            towards other needs like medical bills, utilities, and rent.
+
+            <br></br>
+
+            <a className='link' target='_blank' href='https://www.feedingamerica.org/our-work/hunger-relief-programs/snap'>Hunger Relief Government Programs</a>
+
+
 
 
             </p>
