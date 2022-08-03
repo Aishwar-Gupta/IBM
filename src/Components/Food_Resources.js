@@ -79,7 +79,11 @@ function Food_Resources() {
             <p>
             If you live in a food desert, you may have access to free or affordable food through government 
             programs, soup kitchens, food pantries, or food banks.
-            https://foodpantries.org/
+
+            <br></br>
+            
+            <a className='link' target='_blank' href='https://foodpantries.org/'>Food Pantry Access Link</a>
+
 
             <br/>
             <br/>
@@ -87,6 +91,12 @@ function Food_Resources() {
             If you don’t live in a food desert but want to help those in need, 
             consider volunteering at your local food bank or with an organization like Wholesome Wave.
             https://www.wholesomewave.org/
+
+            <br></br>
+
+            <a className='link' target='_blank' href='https://www.wholesomewave.org/'>Wholesome Wave Volunteering Access Link</a>
+
+
             </p>
 
             {/* <div style = {{width: '100vw', height:'100vh'}}>
