@@ -18,9 +18,11 @@ const WrappedMap = withScriptjs(withGoogleMap(Map));
 export default function Locator() {
 
         return ( 
-        
 
+            
             <div className='print' id="map" style={{ width: "1000px", height: "1000px"}} >  
+
+                Coming soon!
     
                 <WrappedMap
                     googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=${

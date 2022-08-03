@@ -14,7 +14,7 @@ function Donate() {
     return (  
         <div className='print'>
 
-            In progress.
+            Coming soon!
 
             
         </div>

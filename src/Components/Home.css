@@ -7,3 +7,14 @@
     transform: translate(-50% -50%);
     z-index: -1;
 }
+
+.image {
+    position: fixed;
+    object-fit: cover;
+    width: 100%;
+    /* margin-top: 500px; */
+    height: 100vh;
+    right: 0;
+    transform: translate(-50% -50%);
+    z-index: -1;
+}
